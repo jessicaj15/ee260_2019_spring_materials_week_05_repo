@@ -1,8 +1,8 @@
 ---
-title: 
-author:
-partner:
-date:
+title: Hw4
+author: Jessica Jones
+partner: Alexa Fernando, Christine Ramos
+date: 2/18/2019
 ---
 
 **Note:** for the following design questions, show the truth table, boolean
@@ -10,6 +10,8 @@ experssion, and circuit if possible.
 
 ## (5 pts)
 A museum has three rooms, each with a motion sensor (m0, m1, and m2) that outputs 1 when motion is detected. At night, the only person in the museum is one security guard who walks from room to room. Create a circuit that sounds an alarm (by setting an output A to 1) if motion is ever detected in more than one room at a time (i.e., in two or three rooms), meaning there must be one or more intruders in the museum. Start with a truth table.
+
+!()[] 
 
 ## (5 pts)
  Create a circuit for the museum of exercise above that detects whether the guard is properly patrolling the museum, detected by exactly one motion sensor being 1. (If no motion sensor is 1, the guard may be sitting, sleeping, or absent). 
